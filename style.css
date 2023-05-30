@@ -2,7 +2,7 @@ h2{
     color: blueviolet;
 }
 table, th, td {
-    border: 1px solid white;
+    border: 1px solid rgb(15, 15, 15);
     border-collapse: collapse;
   }
   th, td {
