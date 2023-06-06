@@ -1,4 +1,4 @@
-var userInfo = {name : "", image : "", username : ""};
+var userinfo = {name : "", image : "", username : ""};
 var chnagemypic = function(){
 
     fetch("https://randomuser.me/api").then((response)=>response.json()).then((data)=>{
