@@ -7,6 +7,6 @@ var changemypic = function(){
     userinfo.username =data.results[0].login.username;
     document.getElementByid("myimage").src =userinfo.image;
     document.getElementByid("myname").innerHTML = userinfo.name;
-    document.getElementByid("mydesig").src = userinfo.username;
+    document.getElementByid("mydesig").innerHTML = userinfo.username;
     });
 }
