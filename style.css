@@ -1,6 +1,10 @@
 h2 {
     color: blueviolet;
 }
+.container {
+  display: flex;
+  justify-content: center;
+}
 
 table {
     border-collapse: collapse;
