@@ -19,16 +19,16 @@ table {
   }
   
   table th {
-    background-color: #f2f2f2;
+    background-color: #b91ace59;
     font-weight: bold;
   }
   
   table tr:nth-child(even) {
-    background-color: #5ab2ec8c;
+    background-color: #b655eec9;
   }
   
   table tr:hover {
-    background-color: #ff0000;
+    background-color: #c300ffdc;
   }
 
 .card {
